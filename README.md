@@ -21,8 +21,8 @@ My current focus is on mastering MLOps and scalable data architecture.
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=likelipop&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likelipop&layout=compact&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Likelipop&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Likelipop&layout=compact&theme=tokyonight)
 
 
 ### ☕ Super fun fact
