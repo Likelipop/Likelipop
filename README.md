@@ -6,8 +6,6 @@
 I am a Data Science student passionate about building robust data pipelines and developing intelligent systems. 
 My current focus is on mastering MLOps and scalable data architecture.
 
----
-
 ### 🛠 Tech Stack & Tools
 
 * **Languages:** Python (Primary), R, SQL, HTML/CSS.
@@ -15,21 +13,17 @@ My current focus is on mastering MLOps and scalable data architecture.
 * **AI & Machine Learning:** PyTorch, Gymnasium, pandas, Scikit-learn, tidyverse.
 * **Specialized Math:** Stochastic Processes, Time Series Analysis, Reinforcement Learning, Machine Learning, NLP.
 
----
-
 ### 🏗 Key Projects
 
 * **End-to-End MLOps Pipeline:** Built a system to periodically retrain a DQL trading agent as well as building a forcast model using **PyTorch**, **Gymnasium**,
 * and **Dagster** for orchestration, with **MinIO** for object storage.
   
----
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=likelipop&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likelipop&layout=compact&theme=tokyonight)
 
----
 
 ### ☕ Super fun fact
 
