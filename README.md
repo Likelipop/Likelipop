@@ -39,7 +39,7 @@ Most of the languages and technologies I've mastered were learned through univer
 - 🍭(lollipop) + 🎲(likelihood) = "likelipop" 
 - 🖥️ **Competitive Programming** VOI participant(0 prizes, 100% trauma) + mastered the art of "Overthinking Programming"
 - 🎨 Specialized in **After Effects** for motion graphics + **Adobe Illustrator** for vector art.
-- 🎬 Love reading **fiction** + watching **Science fiction**
+- 🎬 Love reading **fiction** + watching **sci-fi movies**
 -  🏖 Addicted to **Vitamin sea**
 
 ---
