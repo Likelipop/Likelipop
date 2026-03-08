@@ -3,7 +3,7 @@
 ### 🎓 Data Science Student at VNU-HCM University of Science
 
 I am a Data Science student passionate about building robust data pipelines and developing intelligent systems. 
-My current focus is on mastering ML-LLM-ops and scalable data architecture.
+My current focus is on create creative stuff.
 
 
 ### 🏗 Key Projects
