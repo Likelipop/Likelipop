@@ -2,13 +2,14 @@
 
 ### 🎓 Data Science Student at VNU-HCM University of Science
 
-I am a Data Science student passionate about create creative stuff. 
-My current focus is on LLM.
-
+I am a Data Science student ('.')
 
 ### 🏗 Key Projects
 
-* **End-to-End MLOps Pipeline:** Built a system to periodically retrain a DQL trading agent as well as build a forcasting model using **PyTorch**, **Gymnasium**, and **Dagster** for orchestration, with **MinIO** for object storage.
+* **Book Recommendation Pipeline:** Engineered a Medallion architecture (Bronze/Silver/Gold) on **Databricks** using **Spark** and **Dagster**. Processed Kaggle data and served ML features directly to a **Streamlit** web app via Databricks SQL Warehouse.
+* **Weed Detection:** now under construction
+* **Reading Comprehension:** now under construction
+* **End-to-End MLOps Pipeline:** Built a system to periodically retrain a DQL trading agent as well as build a forecasting model using **PyTorch**, **Gymnasium**, and **Dagster** for orchestration, with **MinIO** for object storage.
 
 ### ⚙️ What's in my mind 
 Most of the languages and technologies I've mastered were learned through university courses and self-study via various mini-projects.
@@ -42,4 +43,4 @@ Most of the languages and technologies I've mastered were learned through univer
 
 ---
 
-📫 **How to reach me:** verylikelipop@gmail.com | https://www.linkedin.com/in/dat-tran-5aa0613ab 
+📫 **How to reach me:** verylikelipop@gmail.com | https://www.linkedin.com/in/dat-tran-5aa0613ab
