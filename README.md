@@ -12,7 +12,7 @@ I am a Data Science student ('.')
 * **End-to-End MLOps Pipeline:** Built a system to periodically retrain a DQL trading agent as well as build a forecasting model using **PyTorch**, **Gymnasium**, and **Dagster** for orchestration, with **MinIO** for object storage.
 
 ### ⚙️ What's in my mind 
-Most of the languages and technologies I've mastered were learned through university courses and self-study via various mini-projects.
+Most of the languages and technologies I've played with were learned through university courses and self-study via various mini-projects.
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) 
