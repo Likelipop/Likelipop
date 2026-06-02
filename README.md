@@ -4,13 +4,6 @@
 
 I am a Data Science student ('.')
 
-### 🏗 Key Projects
-
-* **Book Recommendation Pipeline:** Engineered a Medallion architecture (Bronze/Silver/Gold) on **Databricks** using **Spark** and **Dagster**. Processed Kaggle data and served ML features directly to a **Streamlit** web app via Databricks SQL Warehouse.
-* **Weed Detection:** now under construction
-* **Reading Comprehension:** now under construction
-* **End-to-End MLOps Pipeline:** Built a system to periodically retrain a DQL trading agent as well as build a forecasting model using **PyTorch**, **Gymnasium**, and **Dagster** for orchestration, with **MinIO** for object storage.
-
 ### ⚙️ What's in my mind 
 Most of the languages and technologies I've played with were learned through university courses and self-study via various mini-projects.
 
@@ -29,7 +22,7 @@ Most of the languages and technologies I've played with were learned through uni
 ### ☕ Random fact
 
 - 🍭(lollipop) + 🎲(likelihood) = "likelipop" 
-- 🎨 Specialized in **After Effects** for motion graphics + **Adobe Illustrator** for vector art.
+- 🎨 Had some exposure to**After Effects** for motion graphics + **Adobe Illustrator** for vector art.
 - 🎬 Love reading **fiction** + watching **sci-fi movies**
 
 ---
