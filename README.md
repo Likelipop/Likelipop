@@ -19,11 +19,6 @@ Most of the languages and technologies I've played with were learned through uni
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
-### ☕ Random fact
-
-- 🍭(lollipop) + 🎲(likelihood) = "likelipop" 
-- 🎨 Had some exposure to**After Effects** for motion graphics + **Adobe Illustrator** for vector art.
-- 🎬 Love reading **fiction** + watching **sci-fi movies**
 
 ---
 
